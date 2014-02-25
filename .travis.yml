@@ -12,6 +12,3 @@ script:
    - cd doc
    - make doctest
 
-notifications:
-    email:
-        - gback@mitre.org
